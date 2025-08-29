@@ -1,10 +1,6 @@
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"ooi":
+  - firstname: ["Leon", "LQR"]
+    url: https://scholar.google.com/citations?user=4_qRakYAAAAJ&hl=en
 
 "orban":
   - firstname: ["Csaba", "C."]
