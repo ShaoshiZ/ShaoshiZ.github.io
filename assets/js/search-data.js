@@ -455,13 +455,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%73%73%7A@%6E%75%73.%65%64%75.%73%67", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -494,7 +487,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("shaoshiz.bsky.social", "_blank");
+          window.open("bsky.app/profile/shaoshiz.bsky.social", "_blank");
         },
       },{
       id: 'light-theme',
