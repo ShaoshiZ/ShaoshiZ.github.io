@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://sites.google.com/view/yeolab'>Computational Brain Imaging Group</a>@<a href='https://medicine.nus.edu.sg/csc/'>CSC</a> National University of Singapore. ssz[at]nus[dot]edu[dot]sg
 
 profile:
   align: right
