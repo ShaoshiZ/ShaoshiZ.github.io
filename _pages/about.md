@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sites.google.com/view/yeolab'>Computational Brain Imaging Group</a>@<a href='https://medicine.nus.edu.sg/csc/'>CSC</a> National University of Singapore. ssz[at]nus[dot]edu[dot]sg
+subtitle: <a href='https://sites.google.com/view/yeolab'>Computational Brain Imaging Group</a>@<a href='https://medicine.nus.edu.sg/csc/'>CSC</a>, National University of Singapore. mailto:ssz[at]nus[dot]edu[dot]sg
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic.jpeg
+  image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
