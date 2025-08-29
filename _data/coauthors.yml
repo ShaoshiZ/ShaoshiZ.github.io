@@ -1,7 +1,11 @@
-"ooi":
-  - firstname: ["LQR*"]
-    url: https://scholar.google.com/citations?user=4_qRakYAAAAJ&hl=en
+"adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"orban":
-  - firstname: ["C.*"]
-    url: https://scholar.google.com/citations?user=ZyiA3lAAAAAJ&hl=en
+"podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+
+"rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
