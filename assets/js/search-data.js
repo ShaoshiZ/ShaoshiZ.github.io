@@ -487,7 +487,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("bsky.app/profile/shaoshiz.bsky.social", "_blank");
+          window.open("shaoshiz.bsky.social", "_blank");
         },
       },{
       id: 'light-theme',
