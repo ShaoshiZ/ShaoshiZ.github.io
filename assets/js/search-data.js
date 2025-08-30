@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-latest-work-looking-into-the-optimal-fmri-scan-time-for-brain-wide-association-studies-is-now-out-at-nature",
-          title: 'Our latest work looking into the optimal fMRI scan time for brain-wide association...',
+            },},{id: "news-our-work-looking-into-the-optimal-fmri-scan-time-for-brain-wide-association-studies-is-now-out-at-nature",
+          title: 'Our work looking into the optimal fMRI scan time for brain-wide association studies...',
           description: "",
           section: "News",},{id: "news-news-article-the-transmitter-featuring-our-recent-nature-study-is-now-out-tada",
           title: 'News article @The Transmitter featuring our recent Nature study is now out. :tada:...',
