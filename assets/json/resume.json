@@ -67,6 +67,60 @@
       "publisher": "PNAS",
       "releaseDate": "2024-04-04",
       "url": "https://www.pnas.org/doi/10.1073/pnas.2318641121"
+    },
+    {
+      "name": "Sensory-motor cortices shape functional connectivity dynamics in the human brain",
+      "publisher": "Nature Commnunications",
+      "releaseDate": "2021-11-04",
+      "url": "https://doi.org/10.1038/s41467-021-26704-y"
+    },
+    {
+      "name": "Population heterogeneity in clinical cohorts affects the predictive accuracy of brain imaging",
+      "publisher": "PLOS Biology",
+      "releaseDate": "2022-04-29",
+      "url": "https://doi.org/10.1371/journal.pbio.3001627"
+    },
+    {
+      "name": "Population heterogeneity in clinical cohorts affects the predictive accuracy of brain imaging",
+      "publisher": "NeuroImage",
+      "releaseDate": "2022-09-16",
+      "url": "https://doi.org/10.1016/j.neuroimage.2022.119636"
+    },
+    {
+      "name": "Relationship between prediction accuracy and feature importance reliability: An empirical and theoretical study",
+      "publisher": "NeuroImage",
+      "releaseDate": "2023-04-23",
+      "url": "https://doi.org/10.1016/j.neuroimage.2023.120115"
+    },
+    {
+      "name": "Macroscale intrinsic dynamics are associated with microcircuit function in focal and generalized epilepsies",
+      "publisher": "Communications Biology",
+      "releaseDate": "2024-02-01",
+      "url": "https://doi.org/10.1038/s42003-024-05819-0"
+    },
+    {
+      "name": "Multilayer meta-matching: translating phenotypic prediction models from multiple datasets to small data",
+      "publisher": "Imaging Neuroscience",
+      "releaseDate": "2024-07-17",
+      "url": "https://doi.org/10.1162/imag_a_00233"
+    },
+    {
+      "name": "Ventral attention network connectivity is linked to cortical maturation and cognitive ability in childhood",
+      "publisher": "Nature Neuroscience",
+      "releaseDate": "2024-08-23",
+      "url": "https://doi.org/10.1038/s41593-024-01736-x"
+    },
+    {
+      "name": "DeepResBat: deep residual batch harmonization accounting for covariate distribution differences",
+      "publisher": "Medical Image Analysis",
+      "releaseDate": "2024-09-21",
+      "url": "https://doi.org/10.1016/j.media.2024.103354"
+    },
+    {
+      "name": "Distinct brain network features predict internalizing and externalizing traits in children, adolescents and adults",
+      "publisher": "Nature Mental Health",
+      "releaseDate": "2025-02-19",
+      "url": "https://doi.org/10.1038/s44220-025-00388-5"
     }
   ],
   "interests": [
