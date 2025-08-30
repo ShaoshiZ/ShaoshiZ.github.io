@@ -5,3 +5,12 @@
 "orban":
   - firstname: ["Csaba", "C."]
     url: https://scholar.google.com/citations?user=ZyiA3lAAAAAJ&hl=en
+
+"larsen":
+  - firstname: ["Bart", "B."]
+    url: https://scholar.google.com/citations?user=GEPAHz4AAAAJ&hl=en
+
+"Sydnor":
+  - firstname: ["Valerie", "V."]
+    url: https://scholar.google.com/citations?user=_bvWdrgAAAAJ&hl=en
+   
