@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sites.google.com/view/yeolab'>Computational Brain Imaging Group</a>@<a href='https://medicine.nus.edu.sg/csc/'>CSC</a>, National University of Singapore. mailto:ssz[at]nus[dot]edu[dot]sg
+subtitle: Research scientist @ <a href='https://sites.google.com/view/yeolab'>Computational Brain Imaging Group</a>, <a href='https://medicine.nus.edu.sg/csc/'>CSC</a> National University of Singapore. mailto:ssz[at]nus[dot]edu[dot]sg
 
 profile:
   align: right
@@ -23,8 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The human brain is full of fascinating mysteries. Intricate internal chemical processes, interacting with the complex external environment, give rise to mood, personality, and cognition. As a computational neuroscientist, my research focuses on uncovering how the brain functions, develops, and degenerates through the study of biophysical models. By integrating brain MRI with computational approaches, I aim to translate these findings into clinical applications that can help patients living with mental disorders.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I enjoy reading notoriously long novels ('And Quiet Flows the Don' by Mikhail Sholokhov, 'In Search of Lost Time' by Marcel Proust, 'The Magic Mountain' by Thomas Mann, to name a few of my favorites) and taking part in various coding challenges (<a href='https://everybody.codes/home'>Everybody Codes </a>, <a href='https://adventofcode.com/'>Advent of Code</a>).
