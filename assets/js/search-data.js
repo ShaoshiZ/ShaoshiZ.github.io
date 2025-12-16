@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -403,6 +396,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-news-article-the-transmitter-featuring-our-recent-nature-study-is-now-out-tada",
           title: 'News article @The Transmitter featuring our recent Nature study is now out. :tada:...',
+          description: "",
+          section: "News",},{id: "news-our-article-is-featured-in-the-nus-medicine-november-issue",
+          title: 'Our article is featured in the NUS MediCine November issue.',
           description: "",
           section: "News",},{id: "projects-optimal-scan-time-calculator",
           title: 'Optimal Scan Time Calculator',
