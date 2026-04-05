@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research scientist @ <a href='https://sites.google.com/view/yeolab'>Computational Brain Imaging Group</a>, <a href='https://medicine.nus.edu.sg/csc/'>CSC</a> National University of Singapore. mailto:ssz[at]nus[dot]edu[dot]sg
+subtitle: Research scientist @ <a href='https://sites.google.com/view/yeolab'>Computational Brain Imaging Group</a>, <a href='https://medicine.nus.edu.sg/csc/'>CSC</a> National University of Singapore. mailto:0zhangshaoshi0[at]gmail[dot]com
 
 profile:
   align: right
