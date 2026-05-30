@@ -815,16 +815,28 @@ footer.sticky-bottom {
 
       .badges {
         padding-bottom: 0.5rem;
-        span {
-          display: inline-block;
-          color: $black-color;
-          height: 100%;
-          padding-right: 0.5rem;
-          vertical-align: middle;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        column-gap: 0.5rem;
+        row-gap: 0.25rem;
+
+        span,
+        a {
+          display: inline-flex;
+          align-items: center;
+          color: var(--global-text-color);
+          // Neutralize per-badge inline margins (e.g. Dimensions' margin-bottom)
+          // so every badge shares the same vertical center line.
+          margin: 0 !important;
 
           &:hover {
             text-decoration: underline;
           }
+        }
+
+        img {
+          vertical-align: middle;
         }
       }
 
@@ -1218,6 +1230,20 @@ ninja-keys::part(ninja-input-wrapper) {
   box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px;
   border-radius: 6px;
   padding: 8px 12px;
+}
+
+// The publications filter bar reuses the newsletter input styles above, but the
+// newsletter box is intentionally light (it sits on the dark footer). On the
+// publications page that makes the bar look white in dark mode. Re-theme it with the
+// regular page colors so it blends in both light and dark modes.
+.bibsearch-form-input {
+  color: var(--global-text-color);
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+}
+
+.bibsearch-form-input:focus {
+  border-color: var(--global-theme-color) !important;
 }
 
 .newsletter-form-input:focus {
