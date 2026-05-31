@@ -56,6 +56,21 @@ table.table a {
   }
 }
 
+// News table: Bootstrap's .table-dark (added by JS in dark mode) forces white text and
+// its own color vars. Pin the news table to the regular theme text color via CSS so it
+// (a) matches the rest of the dark theme (pale blue, not white) and (b) renders the right
+// color on first paint instead of flashing black-then-white while JS loads.
+.news .table {
+  color: var(--global-text-color);
+  --bs-table-color: var(--global-text-color);
+  --bs-table-bg: transparent;
+
+  th,
+  td {
+    color: var(--global-text-color);
+  }
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
